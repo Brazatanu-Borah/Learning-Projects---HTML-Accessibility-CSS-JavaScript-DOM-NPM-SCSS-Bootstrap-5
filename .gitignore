@@ -1,0 +1,23 @@
+# ==========================================
+# 🖥️ MY OPERATING SYSTEM CLUTTER
+# These are hidden files my computer makes automatically.
+# I don't need to push them to GitHub.
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# 📝 MY CODE EDITOR SETTINGS
+# This stops VSCode from uploading my personal layout 
+# preferences or window size history to my repository.
+# ==========================================
+.vscode/
+
+# ==========================================
+# 🔒 MY SENSITIVE DATA (FUTURE PROOFING)
+# If I ever accidentally save passwords, API keys, 
+# or secret login info, I will put them in a file 
+# named '.env' so this rule keeps them safe and private.
+# ==========================================
+.env
